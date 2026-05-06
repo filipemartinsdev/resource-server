@@ -18,7 +18,7 @@ This is a template that setups an application to get authentication from externa
 ## How to execute
 
 
-### Prerequisits
+### Prerequisites
 - Docker
 
 ### Executing
